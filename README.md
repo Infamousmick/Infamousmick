@@ -1,4 +1,3 @@
-## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Infamousmick&style=for-the-badge)
 <br>(☝🏼 since 29/07/2024)
 
